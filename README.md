@@ -48,3 +48,5 @@ The results of the optimization techniques are as follows:
 From the results, we can see that each method has its strengths. Hill Climbing is quick but might get stuck in a bad spot. Simulated Annealing does a good job of exploring different possibilities. Nelder-Mead works well for problems where we don’t have gradients.
 
 The best technique for optimizing the hash table in this case is Hill Climbing because it gave the lowest cost.
+
+Author: fantbs@g.cofc.edu
